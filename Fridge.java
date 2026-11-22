@@ -1,4 +1,4 @@
-//Fridge.java (idk why its Fridge, its a freezer loll)
+//Fridge.java (although it is named Fridge it is actually a freezer)
 //Snowglobe hackathon FREEZE mindfullness game in Java
 
 import java.awt.*;
