@@ -8,7 +8,7 @@ It is a mindfulness game that gives study tips and positive messages to help peo
 **live demo:** https://github.com/ndmickma/Fridge/releases/tag/v1.0.0
 **built by:** Sanvitti Shah (@ndmickma)
 
-Screenshot of Project:
+## Screenshot of Project:
 <img width="1212" height="726" alt="image" src="https://github.com/user-attachments/assets/c74b1930-103a-482d-9d4a-7b1a022fce36" />
 
 ## how do you use it?
@@ -24,24 +24,24 @@ I used Java (Java Swing API) to make the different panels and graphics and GUI.
 java -jar FreezerChill.jar
 3. Play the game!
 
-Key Features:
+## Key Features:
 -Animated freezer door opening and closing
 -Animated snow falling on home page
 
-Red Popsicle Page
+## Red Popsicle Page
 -Positive messages when the user clicks the message button
 
-Neapolitan Study Habits Page
+## Neapolitan Study Habits Page
 -Ice cream flavors matched with study habits
 -When user clicks generate habit a study habit is shown
 -When user clicks start/pause study a 25 minute study timer started (because 25 minute work periods is best for focus)
 
-What I Learned:
+## What I Learned:
 -Handling multiple panels 
 -Animation loops 
 -Using Java Sound API to integrate music
 
-What I Struggled With:
+## What I Struggled With:
 -I found that my original mp3 audio file did not work with the Java sound system, to fix this
 I converted my audio file to a wav file which is compatible with the Java sound system
 (AUDIO CREDITS TO PIXABAY)
