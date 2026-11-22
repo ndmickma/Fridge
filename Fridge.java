@@ -1,5 +1,5 @@
-//Fridge.java
-//Solo 1-day hackathon freezer mini-game in Java Swing
+//Fridge.java (idk why its Fridge, its a freezer loll)
+//Snowglobe hackathon FREEZE mindfullness game in Java
 
 import java.awt.*;
 import java.awt.event.*;
