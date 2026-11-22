@@ -1,4 +1,5 @@
-## FreezerChill (file name is Fridge.java)
+## FreezerChill 
+(file name is Fridge.java)
 
 This project is for anyone who needs a pick me up during a stressful day, it sends them positivity while also helping their stress by providing study hacks.
 
